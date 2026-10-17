@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 10\\Pract10_Taztdinova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D78C94CF-9CF7-4894-94C5-EBE965263EFF}|Pract10_Taztdinova.vcxproj|D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 10\\Pract10_Taztdinova\\Pract10_Taztdinova.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D78C94CF-9CF7-4894-94C5-EBE965263EFF}|Pract10_Taztdinova.vcxproj|solutionrelative:Pract10_Taztdinova.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pract10_Taztdinova.cpp",
+              "DocumentMoniker": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 10\\Pract10_Taztdinova\\Pract10_Taztdinova.cpp",
+              "RelativeDocumentMoniker": "Pract10_Taztdinova.cpp",
+              "ToolTip": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 10\\Pract10_Taztdinova\\Pract10_Taztdinova.cpp",
+              "RelativeToolTip": "Pract10_Taztdinova.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-13T07:31:45.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

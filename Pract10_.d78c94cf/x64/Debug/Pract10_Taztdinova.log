@@ -1,0 +1,3 @@
+﻿  Pract10_Taztdinova.cpp
+D:\Гариев\СП\Практика 10\Pract10_Taztdinova\Pract10_Taztdinova.cpp(309,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pract10_Taztdinova.vcxproj -> D:\Гариев\СП\Практика 10\Pract10_Taztdinova\x64\Debug\Pract10_Taztdinova.exe
